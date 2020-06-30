@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>博客测试</title>
+    <link href="/2020/06/30/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95/"/>
+    <url>/2020/06/30/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95/</url>
+    
+    <content type="html"><![CDATA[<p>一、用 vue 脚手架创建一个项目，自行配置预设 preset</p><p>二、在项目根目录下手动创建一个 vue.config.js 文件</p><pre><code>module.exports = {    // 自动在浏览器打开项目    devServer:{        port: 3333,        open: true    }}</code></pre><p>三、整理删除不必要的东西</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2020/03/09/hello-world/"/>
     <url>/2020/03/09/hello-world/</url>
